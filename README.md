@@ -63,5 +63,3 @@ python src/reproduce.py
 | Test F1 | 0.963 |
 | Test ROC-AUC | 0.993 |
 | Quality gate | Lolos, alias `@champion` (versi 1) |
-
-Screenshot MLflow UI ada di folder `screenshots/`.
